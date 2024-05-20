@@ -1,0 +1,1 @@
+const kMaxEmail = 50;
