@@ -1,6 +1,9 @@
 import 'package:singleton_examples/constants.dart';
 import 'package:singleton_examples/util/validators/email_validator.dart';
 
+/// IS NOT SINGLETON !!!
+/// THIS EXAMPLES WAS CREATED TO COMPARE SINGLETON WITH STATIC CLASS
+
 class Validators {
   Validators._();
 
